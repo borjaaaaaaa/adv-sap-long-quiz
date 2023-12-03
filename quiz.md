@@ -72,11 +72,11 @@ Service Registry-During development, service requestors locate services and get 
 
 10. List and discuss the Web Services Components.
 
-HTTP-The HTTP standard is allowing more systems to communicate with one another.
+HTTP - The HTTP standard is allowing more systems to communicate with one another.
 
-SOAP-SOAP (built on XML) standardizes the messaging capability on different systems.
+SOAP - SOAP (built on XML) standardizes the messaging capability on different systems.
 
-UDDI-UDDI standardizes the publishing and finding of web services.
+UDDI - UDDI standardizes the publishing and finding of web services.
 
-WSDL-WSDL standardizes the description of web services so providers and requesters are speaking the same language.
+WSDL - WSDL standardizes the description of web services so providers and requesters are speaking the same language.
 
